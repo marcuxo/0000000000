@@ -1,0 +1,16 @@
+{
+  "Add another lane": "+ Add another lane",
+  "Click to add card": "Agregar Medidor",
+  "Delete lane": "Delete lane",
+  "Lane actions": "Lane actions",
+  "button": {
+    "Add lane": "Add lane",
+    "Add card": "Agregar",
+    "Cancel": "Cancelar"
+  },
+  "placeholder": {
+    "title": "Titulo",
+    "description": "Descripcion",
+    "label": "Etiqueta"
+  }
+}
